@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-23)
+## Unreleased (2025-08-22)
 
 <section class="reverts">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`44010b3`](https://github.com/stdlib-js/stdlib/commit/44010b3e8509ab22c32750fa125a1155f5fd8995) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
 -   [`3be1d66`](https://github.com/stdlib-js/stdlib/commit/3be1d666a8dffa16c58b4ab1b4186e0f7b1b15f9) - **chore:** address commit comments for commit `a1e8f03` [(#6784)](https://github.com/stdlib-js/stdlib/pull/6784) _(by devshree-bhati, stdlib-bot)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`64023d1`](https://github.com/stdlib-js/stdlib/commit/64023d131d8bc0a2dc2f3617db7f5bb8eb54583c) - **test:** add tests for IEEE 754-2019 compliance [(#6573)](https://github.com/stdlib-js/stdlib/pull/6573) _(by Karan Anand)_
