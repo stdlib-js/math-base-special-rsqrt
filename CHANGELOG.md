@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-22)
+## Unreleased (2025-11-04)
 
 <section class="reverts">
 
@@ -34,14 +34,15 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`78dbf84`](https://github.com/stdlib-js/stdlib/commit/78dbf8405999969cdf9b5a2949c27a11d54d5c1f) - **chore:** add structured package data for `math/base/special/rsqrt` [(#8366)](https://github.com/stdlib-js/stdlib/pull/8366) _(by Manvith M)_
 -   [`44010b3`](https://github.com/stdlib-js/stdlib/commit/44010b3e8509ab22c32750fa125a1155f5fd8995) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
--   [`3be1d66`](https://github.com/stdlib-js/stdlib/commit/3be1d666a8dffa16c58b4ab1b4186e0f7b1b15f9) - **chore:** address commit comments for commit `a1e8f03` [(#6784)](https://github.com/stdlib-js/stdlib/pull/6784) _(by devshree-bhati, stdlib-bot)_
+-   [`3be1d66`](https://github.com/stdlib-js/stdlib/commit/3be1d666a8dffa16c58b4ab1b4186e0f7b1b15f9) - **chore:** address commit comments for commit `a1e8f03` [(#6784)](https://github.com/stdlib-js/stdlib/pull/6784) _(by Devshree Bhati, stdlib-bot)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`64023d1`](https://github.com/stdlib-js/stdlib/commit/64023d131d8bc0a2dc2f3617db7f5bb8eb54583c) - **test:** add tests for IEEE 754-2019 compliance [(#6573)](https://github.com/stdlib-js/stdlib/pull/6573) _(by Karan Anand)_
--   [`5df078f`](https://github.com/stdlib-js/stdlib/commit/5df078fd493ee2d6750fa0be85cb3b39236e227c) - **docs:** replace manual `for` loop in examples [(#6494)](https://github.com/stdlib-js/stdlib/pull/6494) _(by Harsh)_
--   [`7f74294`](https://github.com/stdlib-js/stdlib/commit/7f7429488d85514b016581098e1faefab81f8034) - **bench:** update random value generation [(#6428)](https://github.com/stdlib-js/stdlib/pull/6428) _(by Harsh)_
+-   [`5df078f`](https://github.com/stdlib-js/stdlib/commit/5df078fd493ee2d6750fa0be85cb3b39236e227c) - **docs:** replace manual `for` loop in examples [(#6494)](https://github.com/stdlib-js/stdlib/pull/6494) _(by Harsh Yadav)_
+-   [`7f74294`](https://github.com/stdlib-js/stdlib/commit/7f7429488d85514b016581098e1faefab81f8034) - **bench:** update random value generation [(#6428)](https://github.com/stdlib-js/stdlib/pull/6428) _(by Harsh Yadav)_
 -   [`57efa3d`](https://github.com/stdlib-js/stdlib/commit/57efa3d9de9c4c2f0a94387079e356dad7649a40) - **chore:** rename C files to follow current project conventions [(#6410)](https://github.com/stdlib-js/stdlib/pull/6410) _(by Karan Anand, stdlib-bot)_
--   [`a1e8f03`](https://github.com/stdlib-js/stdlib/commit/a1e8f03af0ee470d0783cb840878dc7cde0826c3) - **chore:** fix EditorConfig lint errors [(#5543)](https://github.com/stdlib-js/stdlib/pull/5543) _(by ditsu, Athan Reines, Philipp Burckhardt)_
+-   [`a1e8f03`](https://github.com/stdlib-js/stdlib/commit/a1e8f03af0ee470d0783cb840878dc7cde0826c3) - **chore:** fix EditorConfig lint errors [(#5543)](https://github.com/stdlib-js/stdlib/pull/5543) _(by Ditsu S, Athan Reines, Philipp Burckhardt)_
 -   [`4714429`](https://github.com/stdlib-js/stdlib/commit/4714429b1acb0ef2634e7a504195a6d1e4004ff7) - **bench:** refactor benchmarks in `math/base/special/rsqrt` [(#5054)](https://github.com/stdlib-js/stdlib/pull/5054) _(by Gururaj Gurram)_
 -   [`b0e68c5`](https://github.com/stdlib-js/stdlib/commit/b0e68c5bc8ee985794eb2ea1791c9337cd15fbd0) - **chore:** update to modern benchmark Makefile _(by Philipp Burckhardt)_
 -   [`1dd3fdc`](https://github.com/stdlib-js/stdlib/commit/1dd3fdcf42490e1d3c93fa3a21a65aca69454932) - **revert:** chore: update to modern benchmark Makefile _(by Philipp Burckhardt)_
@@ -60,15 +61,16 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 7 people contributed to this release. Thank you to the following contributors:
+A total of 8 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Devshree Bhati
+-   Ditsu S
 -   Gururaj Gurram
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
+-   Manvith M
 -   Philipp Burckhardt
--   devshree-bhati
--   ditsu
 
 </section>
 
